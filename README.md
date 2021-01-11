@@ -9,3 +9,5 @@ Components Required:
 6)Wheels
 7)Chassis
 8)Jumper Wires
+Connections:
+connect Vin and ground pins of ultrasonic sensor to 5v and ground pins on arduino.
