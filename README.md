@@ -1,5 +1,6 @@
 # Obstacle-avoiding-robot
 This project is about the obastcle avoidance robot which runs on its own using with arduino.This project uses an ultrasonic sensor motor driver,battery and more components which is listed below.With the help of ultrasonic sensor it detects objects and move accordingly.
+
 Components Required:
 1)Arduino NANO or Uno 
 2)HC-SR04 Ultrasonic Sensor
